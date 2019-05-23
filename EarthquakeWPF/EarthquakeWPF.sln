@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EarthquakeWPF", "EarthquakeWPF\EarthquakeWPF.csproj", "{D40040F1-1508-4BEB-A0BC-676E4CE446BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D40040F1-1508-4BEB-A0BC-676E4CE446BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D40040F1-1508-4BEB-A0BC-676E4CE446BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D40040F1-1508-4BEB-A0BC-676E4CE446BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D40040F1-1508-4BEB-A0BC-676E4CE446BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4D229B6-DED9-4E59-98DA-D8A6CCC94020}
+	EndGlobalSection
+EndGlobal
